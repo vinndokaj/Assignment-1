@@ -7,6 +7,7 @@
   font-size: 30px;
 }
 
+
 .footer
 {
   position: fixed;
@@ -19,12 +20,13 @@
   text-align: center;
 }
 
+
 .donatediv1
 {
   width: 1000px;
   height: 500px;
   padding: 50px;
-  float:left; 
+  float:left;
   margin-left: 100px;
   text-align: center;
   text-shadow: #858585;
@@ -34,8 +36,8 @@
   font-size: 30px;
   font-weight: 200;
   text-justify: auto;
- 
-  
+
+
 }
 
 .info-title {
