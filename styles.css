@@ -1,3 +1,43 @@
+.donate_header1 {
+  padding: 0px;
+  top: 0;
+  text-align: center;
+  background: #858585;
+  color: rgb(15, 15, 255);
+  font-size: 30px;
+}
+
+.footer
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10%;
+  background-color: #858585;
+  color: rgb(15, 15, 255);
+  text-align: center;
+}
+
+.donatediv1
+{
+  width: 1000px;
+  height: 500px;
+  padding: 50px;
+  float:left; 
+  margin-left: 100px;
+  text-align: center;
+  text-shadow: #858585;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 200;
+  text-justify: auto;
+ 
+  
+}
+
 .info-title {
   border-radius: 25px;
   background: #73AD21;
